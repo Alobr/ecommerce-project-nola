@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nola Clothing Store</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+  <link rel="stylesheet" href="./css/main.css">
+</head>
+
+<body>
+
+  <div class="wrapper">
+    <header class="header-mobile">
+      <h1 class="logo">Nola</h1>
+      <button id="open-menu" class="open-menu">
+        <i class="bi bi-list"></i>
+      </button>
+    </header>
+    <aside>
+      <button id="close-menu" class="close-menu">
+        <i class="bi bi-x"></i>
+      </button>
+      <header>
+        <h1 class="logo">Nola </h1>
+      </header>
+
+      <nav>
+        <ul class="menu">
+          <li>
+            <a class="btn-menu btn-return" href="./index.html">
+              <i class="bi bi-arrow-return-left"></i>Keep browsing clothes
+            </a>
+          </li>
+          <li>
+            <a class="btn-menu btn-cart active" href="./cart.html">
+              <i class="bi bi-cart-fill"></i>Cart
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <footer>
+        <p class="footer-text">© 2023 Alonso Bracho</p>
+      </footer>
+
+    </aside>
+
+    <main>
+      <h2 class="main-title">Shopping Cart</h2>
+      <div class="cart-container">
+        <p id="cart-empty" class="cart-empty">Your cart is empty <i class="bi bi-emoji-frown"></i>
+        </p>
+
+        <div id="cart-products" class="cart-products disabled">
+
+          <!-- This is going to be filled with the products by JavaScript -->
+
+        </div>
+
+        <div id="cart-actions" class="cart-actions disabled">
+          <div class="cart-actions-left">
+            <button id="cart-actions-clear" class="cart-actions-clear">Clear cart</button>
+          </div>
+
+          <div class="cart-actions-right">
+            <div class="cart-actions-total">
+              <p>Total</p>
+              <p id="total"></p>
+            </div>
+            <button id="cart-actions-buy" class="cart-actions-buy">Buy now</button>
+          </div>
+        </div>
+
+        <p id="cart-bought" class="cart-bought disabled">Thank you for shopping with us! <i
+            class="bi bi-emoji-laughing"></i></p>
+
+      </div>
+    </main>
+  </div>
+
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script src="./js/cart.js"></script>
+  <script src="./js/menu.js"></script>
+</body>
+
+</html>

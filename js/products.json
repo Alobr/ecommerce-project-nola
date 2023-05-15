@@ -1,0 +1,182 @@
+[
+  {
+    "id": "jacket-01",
+    "title": "Jacket 01",
+    "image": "./img/jackets/01.jpg",
+    "category": {
+      "name": "Jackets",
+      "id": "jackets"
+    },
+    "price": 1000
+  },
+  {
+    "id": "jacket-02",
+    "title": "Jacket 02",
+    "image": "./img/jackets/02.jpg",
+    "category": {
+      "name": "Jackets",
+      "id": "jackets"
+    },
+    "price": 1000
+  },
+  {
+    "id": "jacket-03",
+    "title": "Jacket 03",
+    "image": "./img/jackets/03.jpg",
+    "category": {
+      "name": "Jackets",
+      "id": "jackets"
+    },
+    "price": 1000
+  },
+  {
+    "id": "jacket-04",
+    "title": "Jacket 04",
+    "image": "./img/jackets/04.jpg",
+    "category": {
+      "name": "Jackets",
+      "id": "jackets"
+    },
+    "price": 1000
+  },
+  {
+    "id": "jacket-05",
+    "title": "Jacket 05",
+    "image": "./img/jackets/05.jpg",
+    "category": {
+      "name": "Jackets",
+      "id": "jackets"
+    },
+    "price": 1000
+  },
+  {
+    "id": "shirt-01",
+    "title": "Shirt 01",
+    "image": "./img/shirts/01.jpg",
+    "category": {
+      "name": "Shirts",
+      "id": "shirts"
+    },
+    "price": 1000
+  },
+  {
+    "id": "shirt-02",
+    "title": "Shirt 02",
+    "image": "./img/shirts/02.jpg",
+    "category": {
+      "name": "Shirts",
+      "id": "shirts"
+    },
+    "price": 1000
+  },
+  {
+    "id": "shirt-03",
+    "title": "Shirt 03",
+    "image": "./img/shirts/03.jpg",
+    "category": {
+      "name": "Shirts",
+      "id": "shirts"
+    },
+    "price": 1000
+  },
+  {
+    "id": "shirt-04",
+    "title": "Shirt 04",
+    "image": "./img/shirts/04.jpg",
+    "category": {
+      "name": "Shirts",
+      "id": "shirts"
+    },
+    "price": 1000
+  },
+  {
+    "id": "shirt-05",
+    "title": "Shirt 05",
+    "image": "./img/shirts/05.jpg",
+    "category": {
+      "name": "Shirts",
+      "id": "shirts"
+    },
+    "price": 1000
+  },
+  {
+    "id": "shirt-06",
+    "title": "Shirt 06",
+    "image": "./img/shirts/06.jpg",
+    "category": {
+      "name": "Shirts",
+      "id": "shirts"
+    },
+    "price": 1000
+  },
+  {
+    "id": "shirt-07",
+    "title": "Shirt 07",
+    "image": "./img/shirts/07.jpg",
+    "category": {
+      "name": "Shirts",
+      "id": "shirts"
+    },
+    "price": 1000
+  },
+  {
+    "id": "shirt-08",
+    "title": "Shirt 08",
+    "image": "./img/shirts/08.jpg",
+    "category": {
+      "name": "Shirts",
+      "id": "shirts"
+    },
+    "price": 1000
+  },
+  {
+    "id": "pants-01",
+    "title": "Pants 01",
+    "image": "./img/pants/01.jpg",
+    "category": {
+      "name": "Pants",
+      "id": "pants"
+    },
+    "price": 1000
+  },
+  {
+    "id": "pants-02",
+    "title": "Pants 02",
+    "image": "./img/pants/02.jpg",
+    "category": {
+      "name": "Pants",
+      "id": "pants"
+    },
+    "price": 1000
+  },
+  {
+    "id": "pants-03",
+    "title": "Pants 03",
+    "image": "./img/pants/03.jpg",
+    "category": {
+      "name": "Pants",
+      "id": "pants"
+    },
+    "price": 1000
+  },
+  {
+    "id": "pants-04",
+    "title": "Pants 04",
+    "image": "./img/pants/04.jpg",
+    "category": {
+      "name": "Pants",
+      "id": "pants"
+    },
+    "price": 1000
+  },
+  {
+    "id": "pants-05",
+    "title": "Pants 05",
+    "image": "./img/pants/05.jpg",
+    "category": {
+      "name": "Pants",
+      "id": "pants"
+    },
+    "price": 1000
+  }
+]
